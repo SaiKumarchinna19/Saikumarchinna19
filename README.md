@@ -11,7 +11,7 @@ svz
 
 - 🤝 I’m looking for help with **fraud Bank of Hyderabad**
 
-- 💬 Ask me about **react,javascript,sql,python**
+- 💬 Ask me about **react,javascript,sql,python ,django**
 
 - 📫 How to reach me **chinnasaikumar24@gmail.com**
 
