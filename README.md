@@ -7,7 +7,7 @@ svz
 
 - 🌱 I’m currently learning **django** and doing the projects based on the django
 
-- 👯 I’m looking to collaborate on **FBH**
+- 👯 I’m looking to collaborate on **FBH** which means Fraud Bank of Hyderabad
 
 - 🤝 I’m looking for help with **fraud Bank of Hyderabad**
 
