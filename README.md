@@ -3,7 +3,7 @@
 vsdzv
 svssszzs
 svz
-- 🔭 I’m currently  working on **bank project**
+- 🔭 I’m currently  working on **django projects**
 
 - 🌱 I’m currently learning **django**
 
