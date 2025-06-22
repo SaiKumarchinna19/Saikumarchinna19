@@ -5,7 +5,7 @@ svssszzs
 svz
 - 🔭 I’m currently  working on **django projects**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **django** and doing the projects based on the django
 
 - 👯 I’m looking to collaborate on **FBH**
 
