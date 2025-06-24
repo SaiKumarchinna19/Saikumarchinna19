@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India Hyderabad</h3>
 - 🔭 I’m currently  working on **django projects**
 
-- 🌱 I’m currently learning **django** and doing the projects based on the django
+- 🌱 I’m currently learning **django** & working with the projects based on the django
 
 - 👯 I’m looking to collaborate on **FBH** which means Fraud Bank of Hyderabad
 
