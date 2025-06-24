@@ -46,24 +46,32 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarchinna19&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarchinna19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saikumarchinna19&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarchinna19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumarchinna19" alt="saikumarchinna19" /></a> </p>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumarchinna19" alt="saikumarchinna19" /></a> </p>
 
 ###
-<div align="center">
-  
-</div>
 
-
+<img align="right" height="150"  margin-top:100px src="https://i.imgflip.com/65efzo.gif"/>
 <br clear="both">
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
-
-
 
 ###
+
+
+  ![snake gif](https://github.com/SaiKumarchinna19/SaiKumarchinna19/blob/output/github-snake-dark.svg)
+  <hr>
+
+  <h2 align="center">🧑🏻‍💻😊Thank You 💞</h2>
+
+  
+
+
+
+
+
+
+
+
+
+
+
