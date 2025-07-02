@@ -5,6 +5,7 @@
 </div>
 
 - 🔭 I’m currently  working on **django projects**
+- ⭐ ask me about Github ☣️
 
 - 🌱 I’m currently learning **django** & working with the projects based on the django
 
