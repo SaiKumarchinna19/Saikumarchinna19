@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumarchinna19&show_icons=true&locale=en&layout=compact" alt="saikumarchinna19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumarchinna19&show_icons=true&locale=en" alt="saikumarchinna19" /></p>
+
 <h2 align="left">Hi 👋! My name is saikumar and I'm a developer, from hyderabad</h2>
 
 ###
