@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chinnasaikumar24@gmail.com**
 <br>
-- ⚡ Fun fact **I think I am Good boy**
+- ⚡ Fun fact ** I am Good boy**😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
