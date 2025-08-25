@@ -6,7 +6,6 @@
 <br>
 🔭 I’m currently  working on **django projects**
 <br>
-
 - ⭐ ask me about Github ☣️
 
 - 🌱 I’m currently learning **django** & working with the projects based on the django
@@ -20,7 +19,6 @@
 - 📫 How to reach me **chinnasaikumar24@gmail.com**
 <br>
 - ⚡ Fun fact ** I am Good boy**😊
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sai_bsk7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai_bsk7" height="30" width="40" /></a>
