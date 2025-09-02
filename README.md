@@ -5,7 +5,7 @@
 </div>
 <br>
 -🔭 I’m currently  working on **django projects**
-<br>
+<br><br>
 - ⭐ ask me about Github ☣️
 - 🌱 I’m currently learning **django** & working with the projects based on the django
 
