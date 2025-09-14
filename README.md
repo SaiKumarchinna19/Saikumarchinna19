@@ -2,7 +2,7 @@
 <br>
 
 <h3 align="center">A passionate fullstack developer from India -- Hyderabad</h3>
-
+<br>
 <br>
 
 <div align="center">
