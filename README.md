@@ -11,7 +11,6 @@
 <br>
 - ⭐ ask me about Github ☣️
 <br>
-
 - 🌱 I’m currently learning **django** & working with the projects based on the django
 <br>
 - 👯 I’m looking to collaborate on **FBH** which means Fraud Bank of Hyderabad
