@@ -10,7 +10,7 @@
 -🔭 I’m currently  working on **django projects**
 <br>
 - ⭐ ask me about Github ☣️
-
+<br>
 - 🌱 I’m currently learning **django** & working with the projects based on the django
 <br>
 
