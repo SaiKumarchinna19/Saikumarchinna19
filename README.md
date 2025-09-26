@@ -20,7 +20,6 @@
 - 🤝 I’m looking for help with **fraud Bank of Hyderabad**
 <br>
 - 💬 Ask me about **react,javascript,sql,python ,django**
-
 - 📫 How to reach me **chinnasaikumar24@gmail.com**
 <br>
 - ⚡ Fun fact ** I am Good boy**😊
