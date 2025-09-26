@@ -51,7 +51,6 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaiKumarchinna19" alt="saikumarchinna19" /></a> </p>
 
 ###
-
 <img align="right" height="150"  margin-top:100px src="https://i.imgflip.com/65efzo.gif"/>
 <br clear="both">
 
