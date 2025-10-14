@@ -43,7 +43,6 @@
 
 ###
 ###
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SaiKumarchinna19&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarchinna19" /> </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaiKumarchinna19" alt="saikumarchinna19" /></a> </p>
