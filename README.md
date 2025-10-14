@@ -40,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiKumarchinna19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
-
 ###
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SaiKumarchinna19&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarchinna19" /> </p>
