@@ -52,8 +52,6 @@
 <br clear="both">
 
 ###
-
-
   ![snake gif](https://github.com/SaiKumarchinna19/SaiKumarchinna19/blob/output/github-snake-dark.svg)
   <hr>
 
